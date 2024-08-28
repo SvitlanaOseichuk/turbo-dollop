@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sectionTitle {
+    display: flex;
+    
+}
+
+button {
+    width: 20px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
